@@ -18,7 +18,7 @@ function Header({ handleAddClick, weatherData }) {
         type="button"
         className="header__add-clothes-button"
       >
-        +ADD CLOTHES
+        +Add Clothes
       </button>
       <div className="header__user-container">
         <p className="header__username">Terrance Tegegne</p>

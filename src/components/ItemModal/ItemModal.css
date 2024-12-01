@@ -10,3 +10,7 @@
   width: 100%;
   object-fit: cover;
 }
+
+.modal__footer {
+  margin-right: 32px;
+}
