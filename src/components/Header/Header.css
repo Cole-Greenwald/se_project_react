@@ -31,6 +31,10 @@
   margin-left: auto;
   margin: 0 20px 0 auto;
   border: none;
+  font-family: "CabinetGrotesk-Bold";
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 24px;
 }
 
 @media screen and (max-width: 600px) {
